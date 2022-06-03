@@ -184,11 +184,9 @@ input[type=submit] {
     width: 100%;
     padding: 0;
   }
-
   .footer {
     display: none;
   }
-
   .content {
     height: 92%;
   }
